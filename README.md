@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 1. Execute o script principal:
 ```bash
-python scraper.py
+python podcasts_scrap.py
 ```
 
 O script irá:
@@ -70,7 +70,7 @@ O script irá:
 
 ```
 .
-├── scraper.py           # Script principal
+├── podcasts_scrap.py           # Script principal
 ├── requirements.txt     # Dependências do projeto
 ├── README.md           # Este arquivo
 └── podcasts_brasil/    # Pasta onde os resultados são salvos
