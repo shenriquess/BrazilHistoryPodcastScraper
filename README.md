@@ -25,9 +25,10 @@ pip install -r requirements.txt
 
 Conteúdo do arquivo `requirements.txt`:
 ```
-requests>=2.25.1
-beautifulsoup4>=4.9.3
-pandas>=1.2.0
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+pandas>=2.1.0
+lxml>=4.9.3
 ```
 
 ## Instalação
